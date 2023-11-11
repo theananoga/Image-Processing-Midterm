@@ -1,0 +1,17 @@
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.csproj.AssemblyReference.cache
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.Form1.resources
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.csproj.GenerateResource.cache
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.GeneratedMSBuildEditorConfig.editorconfig
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.AssemblyInfoInputs.cache
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.AssemblyInfo.cs
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.csproj.CoreCompileInputs.cache
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\bin\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.exe
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\bin\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.deps.json
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\bin\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.runtimeconfig.json
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\bin\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.runtimeconfig.dev.json
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\bin\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.dll
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\bin\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.pdb
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.dll
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.pdb
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.genruntimeconfig.cache
+C:\Theana\TCU\111-1\影像處理 Image Processing\Midterm_109316131_莊舒雯\Midterm_109316131_莊舒雯\obj\Debug\netcoreapp3.1\Midterm_109316131_莊舒雯.Properties.Resources.resources
